@@ -215,7 +215,7 @@ div.cpcontent {
 .overlaycontent {
   display: grid;
   text-align: center;
-  line-height: 20vh;
+  line-height: 25vh;
   font-size: 5vw;
 }
 @media only screen and (min-width: 768px) {
